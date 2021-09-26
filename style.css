@@ -16,3 +16,10 @@ h1{
     font-weight: bold;
     font-size: 48px;
 }
+#deadpool{
+    width: 30%;
+    float: right;
+}
+#deadpool2{
+    width: 75%;
+}
