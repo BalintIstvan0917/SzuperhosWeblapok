@@ -16,6 +16,9 @@ h1{
     font-weight: bold;
     font-size: 48px;
 }
+a{
+    color: white;
+}
 #deadpool{
     width: 30%;
     float: right;
