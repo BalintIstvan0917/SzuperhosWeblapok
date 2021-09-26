@@ -1,0 +1,17 @@
+body{
+    background-image: url("background.jpg");
+    color: white;
+    background-repeat: round;
+}
+
+div{
+    width: 70%;
+    margin: auto;
+    background-color: black;
+    opacity: 90%;
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
