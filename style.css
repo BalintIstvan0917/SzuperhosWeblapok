@@ -25,4 +25,6 @@ a{
 }
 #deadpool2{
     width: 75%;
+    display: block;
+    margin: auto;
 }
